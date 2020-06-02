@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+        <style>
+            ul, #myUL {
+                list-style-type: none;
+            }
+
+            #myUL {
+                margin: 0;
+                padding: 0;
+            }
+
+            .caret {
+                cursor: pointer;
+                font-size: 16pt;
+                font-family: sans-serif;
+                user-select: none;
+                -ms-user-select: none;
+            }
+            
+            .linkContent {
+                cursor: pointer;
+                font-size: 12pt;
+                font-family: sans-serif;
+                color: #00AA77;
+                user-select: none;
+            }
+            
+            .nocaret {
+                content: "\00A0";
+                cursor: pointer;
+                font-size: 16pt;
+                font-family: sans-serif;
+                user-select: none;
+                -ms-user-select: none;
+            }
+             
+            .caret::before {
+                content: "\25B6";
+                color: black;
+                display: inline-block;
+                margin-right: 2%;
+            }
+
+            .caret-down::before {
+                transform: rotate(90deg);  
+            }
+
+            .nested {
+                display: none;
+            }
+
+            .active {
+                display: inherit;
+            }
+        </style>
+    </head>
+    <body class="pageBG">
+    <ul id="myUL">
+        <li><span class="caret">Readme</span>
+            <ul class="nested">
+                <li><span id="sigProcDesc" class="linkContent">Data access</span></li>
+                <li><span id="sigProcDesc2" class="linkContent">Syntax and example </span></li>
+            </ul>
+        </li>
+        <li><span class="caret">Functions</span>
+            <ul class="nested">
+                <li><span id="sigProcPltNeg" class="linkContent">sp.PltNeg</span></li>
+                <li><span id="sigProcPltAbs" class="linkContent">sp.PltAbs</span></li>
+                <li><span id="sigProcFiltering" class="linkContent">sp.Filtering</span></li>
+                <li><span id="sigProcPltFiltering" class="linkContent">sp.PltFiltering</span></li>
+                <li><span id="sigProcNumRectifier" class="linkContent">sp.NumRectifier</span></li>
+                <li><span id="sigProcPltNumRectifier" class="linkContent">sp.PltNumRectifier</span></li>
+                <li><span id="sigProcPltFFT" class="linkContent">sp.PltFFT</span></li>
+                <li><span id="sigProcMakeKernel" class="linkContent">sp.MakeKernel</span></li>
+                <li><span id="sigProcPltConv1D" class="linkContent">sp.PltConv1D</span></li>
+                <li><span id="GPUsigProcConv1D" class="linkContent">gsp.Conv1D</span></li>
+                <li><span id="GPUsigProcPltConv1D" class="linkContent">gsp.PltConv1D</span></li>
+            </ul>
+        </li>
+    </ul>
+    <script>
+        var toggler = document.getElementsByClassName("caret");
+        var i;
+        for (i = 0; i < toggler.length; i++) {
+            toggler[i].addEventListener("click", function() {
+                this.parentElement.querySelector(".nested").classList.toggle("active");
+                this.classList.toggle("caret-down");
+            });
+        }
+        
+        var toggler = document.getElementsByClassName("linkContent");
+        var i;
+        for (i = 0; i < toggler.length; i++) {
+            toggler[i].addEventListener("click", function() {
+                var page_name = this.id + ".html";
+                window.open( page_name, "frame_display" );
+            });
+        }
+        
+        var toggler = document.getElementsByClassName("nocaret");
+        var i;
+        for (i = 0; i < toggler.length; i++) {
+            toggler[i].addEventListener("click", function() {
+                var page_name = this.id + ".html";
+                window.open( page_name, "frame_display" );
+            });
+        }
+        
+    </script>
+    
+    </body>
+</html>

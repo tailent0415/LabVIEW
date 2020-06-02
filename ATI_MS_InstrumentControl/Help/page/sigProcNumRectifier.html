@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >NumRectifier</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >This function reconstructs the signal acquired by the CSPD 1<sup>st</sup> stage output. It returns the approached charge number in a while of sampling time interval.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >NumRectifier( dt, ydata )</p>
+            <p class="typeDescFont">Parameters:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>dt: float.</b>
+                    <br>Sampling time interval of signal in unit of second
+                </li>
+                <li>
+                    <b>ydata: float 1d-array.</b>
+                    <br>A sequence of discrete signal points
+                </li>
+            </ul>
+            <p class="typeDescFont">Return:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>NumRectifier: float 1d-array.</b>
+                    <br>The result executing via the numerical rectifier of CSPD
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

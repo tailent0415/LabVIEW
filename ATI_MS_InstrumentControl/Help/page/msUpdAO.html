@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >UpdAO</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >
+                This process updates the definitions of four AO channels (AO0:3).<br>
+                If the function of the channel sets to <b>0</b>, the output shall be updated to the <b>user defined value</b>, immediately.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >UpdAO( Func, Val )</p>
+            <ul class="typeFont" >
+                <li><b>Func:</b> A integer array with 4 elements the element between 0 to 1.
+                    <blockquote> 
+                        0 | User defined<br>
+                        1 | connects to ion gate analogue, it is defined by process <a href="javascript: openHtml( 'msIonGate' );">IonGate</a> and <a href="javascript: openHtml( 'msUpdIGVolts' );">UpdIGVolt</a>.
+                    </blockquote>
+                    <p class="noteFont">It defines the functions of AO0 to AO3.</p>
+                </li>
+                <li><b>Val:</b> A scalar array with 4 elements the element between -10 to 10. Interval as 7.5e-9.
+                    <p class="noteFont">It defines the user-defined values.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

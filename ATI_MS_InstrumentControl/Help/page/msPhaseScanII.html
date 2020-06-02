@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >PhaseScanII</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >This process scans the phase of main RF to reach a constant β equal m/z increment scan from frequency to another frequency.<br>
+            <img src="../image/phaseScanII_A.png" width="220"><br>
+            To meet the above condition, the formula of 𝛺 can be presented as<br>
+            <img src="../image/phaseScanII_B.png" width="160"><br>
+            where the Ω𝑖 and the 𝑚𝑖 denotes frequency and targeting m/z at the 𝑖th step, and the 𝛿𝑚 denotes increment of targeting m/z. To edit the process of PhaseScanII, it should meets the following syntax.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >PhaseScanII( AuxWfmType, AuxStart, iAuxCyc, AuxCyc, Beta, BetaScale, AuxAmp, AuxPulse1, AuxPulse2, AuxPulseAmp, dm, Freq, StepWidth )</p>
+            <ul class="typeFont" >
+                <li><b>AuxWfmType:</b> An integer between 0 to 3.
+                    <blockquote> 
+                        0 | Cosine based<br>
+                        1 | Square wave<br>
+                        2 | Double pulses for each cycle<br>
+                        3 | Arb wave, described by a process named <a href="javascript: openHtml( 'msUpdAuxArbPulses' );">UpdAuxArbPulses</a> <br>
+                    </blockquote>
+                    <p class="noteFont">It determines the type of the auxilary waveform.</p>
+                </li>
+                <li><b>AuxStart:</b> An integer between 0 to 127.
+                    <p class="noteFont">The auxiliary waveform starts after a number of the RF conjunction for a step.</p>
+                </li>
+                <li><b>iAuxCyc:</b> A scalar between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont">The initial cycle of the auxiliary waveform.</p>
+                </li>
+                <li><b>AuxCyc:</b> A scalar between 0 to 99999. Interval as 2.4e-10.
+                    <p class="noteFont">The number of the cycle of the auxiliary waveform for a step.</p>
+                </li>
+                <li><b>Beta:</b> A scalar between 0.01 to 1.
+                    <p class="noteFont">The Beta value used to define the auxiliary AC frequency and m/z scale of the acquired mass spectra.</p>
+                </li>
+                <li><b>BetaScale:</b> A scalar between 0 to 10.
+                    <p class="noteFont" >It defines the actual ratio (R) between auxiliary frequency and main RF frequency by R = Beta * BetaScale / 2.</p>
+                </li>
+                <li><b>AuxAmp:</b> A scalar between 0 to 1. Interval as 2e-9.
+                    <p class="noteFont" >It defines auxiliary waveform amplitude.</p>
+                </li>
+                <li><b>AuxPulse1:</b> A scalar array with 2 elements the element between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont" >The array denotes the beginning and ending auxiliary AC cycles of the first pulse.</p>
+                </li>
+                <li><b>AuxPulse2:</b> A scalar array with 2 elements the element between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont" >The array denotes the beginning and ending auxiliary AC cycles of the second pulse.</p>
+                </li>
+                <li><b>AuxPulseAmp:</b> A scalar array with 2 elements the element between -1 to 1. Interval as 1.3e-4.
+                    <p class="noteFont" >The array denotes the amplitudes of AuxPulses.</p>
+                </li>
+                <li><b>dm:</b> A scalar between 0 to 10000.
+                    <p class="noteFont" >It defines the increment/decrement of m/z between steps.</p>
+                </li>
+                <li><b>Freq:</b> A scalar array with 2 elements the element greater than 0.01.
+                    <p class="noteFont" >The array denotes the initial RF frequency and the final RF frequency of main RF phase scan.</p>
+                </li>
+                <li><b>StepWidth:</b> An integer between 0 to 8191.
+                    <p class="noteFont" >Number of the RF conjunction. This number defines the width of a step.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

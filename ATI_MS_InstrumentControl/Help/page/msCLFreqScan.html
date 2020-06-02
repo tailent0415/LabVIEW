@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >CLFreqScan</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >
+                This process slightly changes main RF frequency linearly for each sample point till a target frequency.<br><br>
+                <img src="../image/CLFreqScan_A.png" width="250"><br>
+                where 𝑛 denotes 𝑛𝑡ℎ sample point, and 𝛿𝑡 denotes sampling interval which is 25𝑛𝑠 herein.<br>
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >CLFreqScan( Targetfreq, Time )</p>
+            <ul class="typeFont" >
+                <li>
+                    <b>Targetfreq:</b> A scalar between 1 to 2000000.
+                    <p class="noteFont">It defines the target frequency.</p>
+                </li>
+                <li>
+                    <b>Time:</b> A scalar between 0 to 60.
+                    <p class="noteFont">It defines the time duration of this process.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

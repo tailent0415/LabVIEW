@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+ATI ¨Ï¥ÎªÌ¤¶­±²£¥Íªº Error List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nifamily familyname="ATI Error" displayname="ATI Error">
+</nifamily>
+</nicomment>
+<nierror code="5000">
+Time out
+</nierror>
+<nierror code="5100">
+Initialise Failed.
+Please confirm that the peripheral device is connected and restart.
+</nierror>
+<nierror code="5501">
+ExpCondi has error
+</nierror>
+<nierror code="5502">
+Mass Data Overlap
+</nierror>
+<nierror code="5503">
+Signal Remarks is not exist
+</nierror>
+<nierror code="5504">
+mz info: ID does not matched
+</nierror>
+<nierror code="6000">
+Variable no found
+</nierror>
+<nierror code="6001">
+Variable error
+</nierror>
+<nierror code="6002">
+Undefined sentence
+</nierror>
+<nierror code="6003">
+Header lost , There should be a #Header as the first sentence.
+</nierror>
+<nierror code="6004">
+Value out of range
+</nierror>
+<nierror code="6005">
+Parameter lost
+</nierror>
+<nierror code="6006">
+Parameter error
+</nierror>
+<nierror code="6007">
+Calculation error
+</nierror>
+<nierror code="6008">
+Unknown Command
+</nierror>
+<nierror code="6009">
+Loop Error
+</nierror>
+<nierror code="6010">
+Comment lost
+</nierror>
+</nidocument>

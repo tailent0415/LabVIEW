@@ -1,0 +1,13 @@
+from scipy import signal
+PriPlt.ScanSig[0].ydata = signal.savgol_filter( PriPlt.ScanSig[0].ydata, 10001, 3 )
+
+'''
+PriPlt = sp.PltFiltering( PriPlt, 'Gaussian', 0.008 )
+PriPlt = sp.PltNumRectifier( PriPlt )
+
+for n, sig in enumerate( PriPlt.ScanSig ):
+    PriPlt.ScanSig[n].ydata = PriPlt.ScanSig[n].ydata - PriPlt.ScanSig[n].ydata[0]
+    PriPlt.ScanSig[n].ydata = numpy.absolute(PriPlt.ScanSig[n].ydata)
+    PriPlt.ScanSig[n].ydata = numpy.add.accumulate( sig.ydata )
+    PriPlt.ScanSig[n].ydata = PriPlt.ScanSig[n].ydata * PriPlt.ScanSig[n].dt
+'''

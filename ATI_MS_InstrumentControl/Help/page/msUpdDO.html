@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >UpdDO</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >
+                This process updates the definitions of DO channels (DO0:3).<br>
+                If the function of the channel sets to <b>0</b>, the output shall be updated to the <b>user defined value</b>, immediately.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >UpdDO( Func, Val )</p>
+            <ul class="typeFont" >
+                <li><b>Func:</b> An integer array with 4 elements the element between 0 to 9.
+                    <blockquote>
+                        0 | User defined<br>
+                        1 | Laser trigger<br>
+                        2 | Ion gate on?<br>
+                        3 | Scan?<br>
+                        4 | Wait for cmd?<br>
+                        5 | Not conj?<br>
+                        6 | 1st conj?<br>
+                        7 | No defined<br>
+                        8 | No defined<br>
+                        9 | No defined
+                    </blockquote>
+                    <p class="noteFont" >It define the functions of DO0 to DO3.</p>
+                </li>
+                <li><b>Val:</b> A boolean array with 4 elements.
+                    <p class="noteFont" >The array used as user-defined values for DO.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

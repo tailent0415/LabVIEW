@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >UpdConj</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >
+                This process updates the conjunctions which produce tiny pauses at specific RF phases.<br>
+                Moreover, they are the phase flags of main RF used in the scan waveform calculations.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >UpdConj( IniPhase, ConjLen, PhaseDiff, FixedLen )</p>
+            <ul class="typeFont" >
+                <li><b>IniPhase:</b> An integer between 0 to 4294967295.
+                    <p class="noteFont" >The initial phase of a conjunction.</p>
+                </li>
+                <li><b>ConjLen:</b> A scalar array with 1 to 16 elements the element between 0 to 49.999. Interval as 1e-3.
+                    <p class="noteFont" >The length of conjunction. It expresses as the ratio (in percentage) to wavelength or fixed time interval (in second) as a conjunction.</p>
+                </li>
+                <li><b>PhaseDiff:</b> An integer array where the size is equal to the ConjLen array the element between 0 to 4294967295.
+                    <p class="noteFont" >The phase difference between conjunctions.</p>
+                </li>
+                <li><b>FixedLen:</b> A Boolean value.
+                    <blockquote>
+                        T | The length of conjunction is fixed.<br>
+                        F | The length of conjunction is a ratio of RF period.
+                    </blockquote>
+                    <p class="noteFont" >Determine that the length of conjunction.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

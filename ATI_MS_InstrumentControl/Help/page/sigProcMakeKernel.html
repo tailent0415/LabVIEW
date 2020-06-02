@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >MakeKernel</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >This function returns a window (kernel) with given type and width.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >MakeKernel( dt, ktype, kwidth )</p>
+            <p class="typeDescFont">Parameters:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>dt: float.</b>
+                    <br>Sampling time interval of signal in unit of second
+                </li>
+                <li>
+                    <b>ktype: string.</b>
+                    <br>It defines the type of kernel used in the discrete convolution with the ydata.
+                    <br>It can accept the following types of kernels.
+                    <ul class="typeFont" style="color: cornflowerblue">
+                        <li>
+                            norm( Gaussian function )
+                        </li>
+                        <li>
+                            Gaussian( Gaussian function )
+                        </li>
+                        <li>
+                            boxcar( Rectangular )
+                        </li>
+                        <li>
+                            triang( Triangle )
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <b>kwidth: float.</b>
+                    <br>Width of the kernel in unit of second.
+                </li>
+            </ul>
+            <p class="typeDescFont">Return:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>MakeKernel: float 1d-array</b>
+                    <br>A one-dimension array with specific length and shape.
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

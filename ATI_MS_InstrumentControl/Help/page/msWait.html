@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >Wait</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >This process wait for a trigger from the DI.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >Wait( Timeout, DI, Edge )</p>
+            <ul class="typeFont" >
+                <li><b>Timeout:</b> A scalar between 0.001 to 60000. Interval as 25μs.
+                    <p class="noteFont" >The time period for idle in a unit of millisecond.</p>
+                </li>
+                <li><b>DI:</b> An integer between 0 to 7.
+                </li>
+                <li><b>Edge:</b> An integer between 0 to 3.
+                    <blockquote>
+                        0 | timeout<br>
+                        1 | rising<br>
+                        2 | falling<br>
+                        3 | both
+                    </blockquote>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

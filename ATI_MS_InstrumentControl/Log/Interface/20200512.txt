@@ -1,0 +1,354 @@
+TimeStamp = 2020/05/12 10:38:10; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:12; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:13; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:15; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:16; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:18; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:19; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:38:58; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:09; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:09; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:09; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:10; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:10; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:10; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:10; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:11; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:12; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:39:18; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:41:07; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:42:20; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:42:32; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:43:19; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:44:39; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:44:56; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:45:55; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:46:01; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:52:54; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:54:08; 
+ErrorCode : 5504
+ErrorMsg : SigInfo.lvclass:SigInfo AcqSigRmk.vi<APPEND>
+
+<b>Complete call chain:</b>
+     SigInfo.lvclass:SigInfo AcqSigRmk.vi
+     _PC_MS manageSignalData.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_MS manageSignalData.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 10:54:23; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 11:01:07; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 11:24:03; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/12 11:26:11; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+

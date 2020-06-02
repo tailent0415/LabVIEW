@@ -1,0 +1,1683 @@
+2020/05/12 10:38:44	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:38:44	SetTurboCtrl
+2020/05/12 10:38:50	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:38:50	SetTurboCtrl
+2020/05/12 10:38:54	GetMass
+2020/05/12 10:38:55	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:38:56	SetTurboCtrl
+2020/05/12 10:39:01	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:01	SetTurboCtrl
+2020/05/12 10:39:07	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:07	SetTurboCtrl
+2020/05/12 10:39:12	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:13	SetTurboCtrl
+2020/05/12 10:39:18	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:18	SetTurboCtrl
+2020/05/12 10:39:20	Reconnecting...
+2020/05/12 10:39:23	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:24	SetTurboCtrl
+2020/05/12 10:39:29	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:29	SetTurboCtrl
+2020/05/12 10:39:34	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:35	SetTurboCtrl
+2020/05/12 10:39:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:40	SetTurboCtrl
+2020/05/12 10:39:45	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:46	SetTurboCtrl
+2020/05/12 10:39:51	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:51	SetTurboCtrl
+2020/05/12 10:39:56	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:39:57	SetTurboCtrl
+2020/05/12 10:40:02	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:03	SetTurboCtrl
+2020/05/12 10:40:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:08	SetTurboCtrl
+2020/05/12 10:40:13	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:14	SetTurboCtrl
+2020/05/12 10:40:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:20	SetTurboCtrl
+2020/05/12 10:40:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:25	SetTurboCtrl
+2020/05/12 10:40:30	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:31	SetTurboCtrl
+2020/05/12 10:40:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:36	SetTurboCtrl
+2020/05/12 10:40:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:41	SetTurboCtrl
+2020/05/12 10:40:46	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:46	SetTurboCtrl
+2020/05/12 10:40:49	GetMass
+2020/05/12 10:40:51	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:52	SetTurboCtrl
+2020/05/12 10:40:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:40:58	SetTurboCtrl
+2020/05/12 10:41:03	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:03	SetTurboCtrl
+2020/05/12 10:41:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:09	SetTurboCtrl
+2020/05/12 10:41:14	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:14	SetTurboCtrl
+2020/05/12 10:41:18	GetMass
+2020/05/12 10:41:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:20	SetTurboCtrl
+2020/05/12 10:41:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:25	SetTurboCtrl
+2020/05/12 10:41:31	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:31	SetTurboCtrl
+2020/05/12 10:41:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:36	SetTurboCtrl
+2020/05/12 10:41:42	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:42	SetTurboCtrl
+2020/05/12 10:41:47	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:48	SetTurboCtrl
+2020/05/12 10:41:53	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:53	SetTurboCtrl
+2020/05/12 10:41:59	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:41:59	SetTurboCtrl
+2020/05/12 10:42:04	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:05	SetTurboCtrl
+2020/05/12 10:42:10	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:10	SetTurboCtrl
+2020/05/12 10:42:15	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:16	SetTurboCtrl
+2020/05/12 10:42:21	GetMass
+2020/05/12 10:42:21	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:22	SetTurboCtrl
+2020/05/12 10:42:27	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:27	SetTurboCtrl
+2020/05/12 10:42:32	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:33	SetTurboCtrl
+2020/05/12 10:42:38	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:38	SetTurboCtrl
+2020/05/12 10:42:44	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:44	SetTurboCtrl
+2020/05/12 10:42:49	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:50	SetTurboCtrl
+2020/05/12 10:42:55	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:42:55	SetTurboCtrl
+2020/05/12 10:42:59	GetMass
+2020/05/12 10:43:00	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:01	SetTurboCtrl
+2020/05/12 10:43:06	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:06	SetTurboCtrl
+2020/05/12 10:43:12	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:12	SetTurboCtrl
+2020/05/12 10:43:17	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:18	SetTurboCtrl
+2020/05/12 10:43:23	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:23	SetTurboCtrl
+2020/05/12 10:43:28	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:29	SetTurboCtrl
+2020/05/12 10:43:34	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:34	SetTurboCtrl
+2020/05/12 10:43:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:40	SetTurboCtrl
+2020/05/12 10:43:45	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:46	SetTurboCtrl
+2020/05/12 10:43:48	GetMass
+2020/05/12 10:43:51	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:51	SetTurboCtrl
+2020/05/12 10:43:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:43:57	SetTurboCtrl
+2020/05/12 10:44:02	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:02	SetTurboCtrl
+2020/05/12 10:44:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:08	SetTurboCtrl
+2020/05/12 10:44:13	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:14	SetTurboCtrl
+2020/05/12 10:44:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:19	SetTurboCtrl
+2020/05/12 10:44:24	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:25	SetTurboCtrl
+2020/05/12 10:44:30	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:31	SetTurboCtrl
+2020/05/12 10:44:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:36	SetTurboCtrl
+2020/05/12 10:44:41	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:44:42	SetTurboCtrl
+2020/05/12 10:44:42	GetMass
+2020/05/12 10:55:51	SetTurboCtrl
+2020/05/12 10:55:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:55:57	SetTurboCtrl
+2020/05/12 10:56:02	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:03	SetTurboCtrl
+2020/05/12 10:56:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:08	SetTurboCtrl
+2020/05/12 10:56:13	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:14	GetMass
+2020/05/12 10:56:14	SetTurboCtrl
+2020/05/12 10:56:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:19	SetTurboCtrl
+2020/05/12 10:56:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:25	SetTurboCtrl
+2020/05/12 10:56:30	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:31	SetTurboCtrl
+2020/05/12 10:56:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:37	SetTurboCtrl
+2020/05/12 10:56:42	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:43	SetTurboCtrl
+2020/05/12 10:56:44	Reconnecting...
+2020/05/12 10:56:48	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:48	SetTurboCtrl
+2020/05/12 10:56:53	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:54	SetTurboCtrl
+2020/05/12 10:56:59	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:56:59	SetTurboCtrl
+2020/05/12 10:57:05	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:05	SetTurboCtrl
+2020/05/12 10:57:10	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:11	SetTurboCtrl
+2020/05/12 10:57:16	GetMass
+2020/05/12 10:57:16	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:17	SetTurboCtrl
+2020/05/12 10:57:22	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:22	SetTurboCtrl
+2020/05/12 10:57:28	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:28	SetTurboCtrl
+2020/05/12 10:57:33	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:33	SetTurboCtrl
+2020/05/12 10:57:39	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:39	SetTurboCtrl
+2020/05/12 10:57:44	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:45	SetTurboCtrl
+2020/05/12 10:57:50	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:50	SetTurboCtrl
+2020/05/12 10:57:55	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:57:56	SetTurboCtrl
+2020/05/12 10:58:01	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:01	SetTurboCtrl
+2020/05/12 10:58:06	GetMass
+2020/05/12 10:58:07	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:07	SetTurboCtrl
+2020/05/12 10:58:12	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:13	SetTurboCtrl
+2020/05/12 10:58:18	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:18	SetTurboCtrl
+2020/05/12 10:58:24	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:24	SetTurboCtrl
+2020/05/12 10:58:29	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:30	SetTurboCtrl
+2020/05/12 10:58:35	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:35	SetTurboCtrl
+2020/05/12 10:58:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:41	SetTurboCtrl
+2020/05/12 10:58:46	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:47	SetTurboCtrl
+2020/05/12 10:58:52	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:52	SetTurboCtrl
+2020/05/12 10:58:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:58:58	SetTurboCtrl
+2020/05/12 10:59:03	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:59:03	SetTurboCtrl
+2020/05/12 10:59:09	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:59:09	SetTurboCtrl
+2020/05/12 10:59:14	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:59:15	SetTurboCtrl
+2020/05/12 10:59:15	GetMass
+2020/05/12 10:59:20	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 10:59:20	SetTurboCtrl
+2020/05/12 11:00:22	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:22	SetTurboCtrl
+2020/05/12 11:00:27	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:28	SetTurboCtrl
+2020/05/12 11:00:33	GetMass
+2020/05/12 11:00:33	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:34	SetTurboCtrl
+2020/05/12 11:00:39	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:39	SetTurboCtrl
+2020/05/12 11:00:44	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:45	SetTurboCtrl
+2020/05/12 11:00:50	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:50	SetTurboCtrl
+2020/05/12 11:00:56	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:00:56	SetTurboCtrl
+2020/05/12 11:01:01	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:02	SetTurboCtrl
+2020/05/12 11:01:07	Reconnecting...
+2020/05/12 11:01:07	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:07	SetTurboCtrl
+2020/05/12 11:01:12	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:13	SetTurboCtrl
+2020/05/12 11:01:18	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:18	SetTurboCtrl
+2020/05/12 11:01:23	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:24	SetTurboCtrl
+2020/05/12 11:01:29	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:29	SetTurboCtrl
+2020/05/12 11:01:34	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:35	SetTurboCtrl
+2020/05/12 11:01:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:41	SetTurboCtrl
+2020/05/12 11:01:46	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:46	SetTurboCtrl
+2020/05/12 11:01:51	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:52	SetTurboCtrl
+2020/05/12 11:01:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:01:57	SetTurboCtrl
+2020/05/12 11:02:02	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:03	SetTurboCtrl
+2020/05/12 11:02:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:08	SetTurboCtrl
+2020/05/12 11:02:13	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:14	SetTurboCtrl
+2020/05/12 11:02:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:19	SetTurboCtrl
+2020/05/12 11:02:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:25	SetTurboCtrl
+2020/05/12 11:02:30	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:31	SetTurboCtrl
+2020/05/12 11:02:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:36	SetTurboCtrl
+2020/05/12 11:02:41	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:41	SetTurboCtrl
+2020/05/12 11:02:46	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:47	SetTurboCtrl
+2020/05/12 11:02:52	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:52	SetTurboCtrl
+2020/05/12 11:02:57	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:02:58	SetTurboCtrl
+2020/05/12 11:03:03	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:03	SetTurboCtrl
+2020/05/12 11:03:08	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:09	SetTurboCtrl
+2020/05/12 11:03:14	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:14	SetTurboCtrl
+2020/05/12 11:03:20	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:20	SetTurboCtrl
+2020/05/12 11:03:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:25	SetTurboCtrl
+2020/05/12 11:03:31	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:31	SetTurboCtrl
+2020/05/12 11:03:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:36	SetTurboCtrl
+2020/05/12 11:03:41	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:42	SetTurboCtrl
+2020/05/12 11:03:47	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:47	SetTurboCtrl
+2020/05/12 11:03:53	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:53	SetTurboCtrl
+2020/05/12 11:03:58	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:03:59	SetTurboCtrl
+2020/05/12 11:04:04	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:04	SetTurboCtrl
+2020/05/12 11:04:10	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:10	SetTurboCtrl
+2020/05/12 11:04:15	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:15	SetTurboCtrl
+2020/05/12 11:04:21	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:21	SetTurboCtrl
+2020/05/12 11:04:26	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:27	SetTurboCtrl
+2020/05/12 11:04:32	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:32	SetTurboCtrl
+2020/05/12 11:04:37	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:38	SetTurboCtrl
+2020/05/12 11:04:43	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:44	SetTurboCtrl
+2020/05/12 11:04:49	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:49	SetTurboCtrl
+2020/05/12 11:04:54	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:04:55	SetTurboCtrl
+2020/05/12 11:05:00	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:01	SetTurboCtrl
+2020/05/12 11:05:06	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:06	SetTurboCtrl
+2020/05/12 11:05:11	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:12	SetTurboCtrl
+2020/05/12 11:05:17	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:17	SetTurboCtrl
+2020/05/12 11:05:22	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:23	SetTurboCtrl
+2020/05/12 11:05:28	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:29	SetTurboCtrl
+2020/05/12 11:05:34	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:34	SetTurboCtrl
+2020/05/12 11:05:39	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:40	SetTurboCtrl
+2020/05/12 11:05:45	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:45	SetTurboCtrl
+2020/05/12 11:05:50	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:50	SetTurboCtrl
+2020/05/12 11:05:56	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:05:56	SetTurboCtrl
+2020/05/12 11:06:01	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:01	SetTurboCtrl
+2020/05/12 11:06:06	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:07	SetTurboCtrl
+2020/05/12 11:06:12	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:12	SetTurboCtrl
+2020/05/12 11:06:17	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:18	SetTurboCtrl
+2020/05/12 11:06:23	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:23	SetTurboCtrl
+2020/05/12 11:06:29	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:29	SetTurboCtrl
+2020/05/12 11:06:34	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:35	SetTurboCtrl
+2020/05/12 11:06:40	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:40	SetTurboCtrl
+2020/05/12 11:06:45	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:45	SetTurboCtrl
+2020/05/12 11:06:51	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:51	SetTurboCtrl
+2020/05/12 11:06:56	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:06:57	SetTurboCtrl
+2020/05/12 11:07:02	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:02	SetTurboCtrl
+2020/05/12 11:07:07	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:08	SetTurboCtrl
+2020/05/12 11:07:13	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:14	SetTurboCtrl
+2020/05/12 11:07:19	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:19	SetTurboCtrl
+2020/05/12 11:07:24	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:25	SetTurboCtrl
+2020/05/12 11:07:30	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:30	SetTurboCtrl
+2020/05/12 11:07:35	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:36	SetTurboCtrl
+2020/05/12 11:07:41	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:41	SetTurboCtrl
+2020/05/12 11:07:47	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:47	SetTurboCtrl
+2020/05/12 11:07:52	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:53	SetTurboCtrl
+2020/05/12 11:07:58	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:07:58	SetTurboCtrl
+2020/05/12 11:08:03	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:04	SetTurboCtrl
+2020/05/12 11:08:09	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:09	SetTurboCtrl
+2020/05/12 11:08:14	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:15	SetTurboCtrl
+2020/05/12 11:08:20	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:20	SetTurboCtrl
+2020/05/12 11:08:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:26	SetTurboCtrl
+2020/05/12 11:08:31	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:31	SetTurboCtrl
+2020/05/12 11:08:36	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:36	SetTurboCtrl
+2020/05/12 11:08:42	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:42	SetTurboCtrl
+2020/05/12 11:08:47	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:47	SetTurboCtrl
+2020/05/12 11:08:53	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:53	SetTurboCtrl
+2020/05/12 11:08:58	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:08:59	SetTurboCtrl
+2020/05/12 11:09:04	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:04	SetTurboCtrl
+2020/05/12 11:09:06	GetMass
+2020/05/12 11:09:09	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:09	SetTurboCtrl
+2020/05/12 11:09:11	GetMass
+2020/05/12 11:09:14	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:15	SetTurboCtrl
+2020/05/12 11:09:20	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:20	SetTurboCtrl
+2020/05/12 11:09:25	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:26	SetTurboCtrl
+2020/05/12 11:09:31	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:31	SetTurboCtrl
+2020/05/12 11:09:36	GetMass
+2020/05/12 11:09:37	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:37	SetTurboCtrl
+2020/05/12 11:09:42	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:43	SetTurboCtrl
+2020/05/12 11:09:48	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:48	SetTurboCtrl
+2020/05/12 11:09:53	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:54	SetTurboCtrl
+2020/05/12 11:09:59	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:09:59	SetTurboCtrl
+2020/05/12 11:10:05	ErrorCode : -1073807339;
+ErrorMsg : VISA Read in Pfeiffer Vacuum.lvlib:PV Write-Read Core.vi->Pfeiffer Vacuum.lvlib:PV Operating adjustment turbopump.vi->TC110.vi->_RT_CtrlLoop_TurboPump.vi->_RT_CtrlLoop_Manager.vi->RT_Main.vi;	
+Call Chain : 	
+_RT_CtrlLoop_TurboPump.vi,	
+_RT_CtrlLoop_Manager.vi,	
+RT_Main.vi;	
+	
+2020/05/12 11:10:05	SetTurboCtrl

@@ -1,0 +1,50 @@
+TimeStamp = 2020/05/20 14:25:41; 
+ErrorCode : -2507
+ErrorMsg : LabVIEW: (Hex 0xFFFFF635) Invalid group name and/or channel name.; 
+Call Chain : 
+TDMSAdv.lvclass:TDMSAdv readData.vi,
+DataTreeCtrl.lvclass:DataTreeCtrlFM stateMachine.vi,
+DataTreeCtrl.lvclass:DataTreeCtrl loadData.vi,
+_PC_Daemon_SaveFiles.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/20 14:28:01; 
+ErrorCode : -2507
+ErrorMsg : LabVIEW: (Hex 0xFFFFF635) Invalid group name and/or channel name.; 
+Call Chain : 
+TDMSAdv.lvclass:TDMSAdv readData.vi,
+DataTreeCtrl.lvclass:DataTreeCtrlFM stateMachine.vi,
+DataTreeCtrl.lvclass:DataTreeCtrl loadData.vi,
+_PC_Daemon_SaveFiles.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/20 14:28:16; 
+ErrorCode : 5501
+ErrorMsg : _PC_Pub_ExpCondiValue_Script.vi<APPEND>
+
+<b>Complete call chain:</b>
+     _PC_Pub_ExpCondiValue_Script.vi
+     DataTreeCtrl.lvclass:DataTreeCtrl signalToSpecData.vi
+     _PC_Daemon_SaveFiles.vi
+     ATI InTrap-MALDI Explorer.vi; 
+Call Chain : 
+_PC_Daemon_SaveFiles.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/20 14:30:07; 
+ErrorCode : -2507
+ErrorMsg : LabVIEW: (Hex 0xFFFFF635) Invalid group name and/or channel name.; 
+Call Chain : 
+TDMSAdv.lvclass:TDMSAdv readData.vi,
+DataTreeCtrl.lvclass:DataTreeCtrlFM stateMachine.vi,
+DataTreeCtrl.lvclass:DataTreeCtrl loadData.vi,
+_PC_Daemon_SaveFiles.vi,
+ATI InTrap-MALDI Explorer.vi; 
+
+TimeStamp = 2020/05/20 14:30:54; 
+ErrorCode : 7
+ErrorMsg : LabVIEW: (Hex 0x7) File not found. The file might be in a different location or deleted. Use the command prompt or the file explorer to verify that the path is correct.; 
+Call Chain : 
+_PC_MS_SubVI writeToTDMS.vi,
+ATI InTrap-MALDI Explorer.vi; 
+

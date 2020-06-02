@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >RFStart</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >Start the main RF output with a specific frequency (Freq) and specific amplitude (Amp).</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >RFStart( Freq, Amp, WfmType )</p>
+            <ul class="typeFont" >
+                <li><b>Freq:</b> A scalar between 0 to 2,000,000.
+                    <p class="noteFont" >Time in second for opening the ion gate for ion quantitation estimation.</p>
+                </li>
+                <li><b>Amp:</b> A scalar between 0 to <a href="javascript: openHtml( 'msHeader' );">PriRFMaxAmp</a>.
+                    <p class="noteFont" >Time in second for opening the ion gate for ion quantitation estimation.</p>
+                </li>
+                <li><b>WfmType:</b> An integer between 0 to 1.
+                    <blockquote>
+                        0 | Consine base<br>
+                        1 | Digital waveform
+                    </blockquote>
+                    <p class="noteFont" >Determine waveform type of main RF.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

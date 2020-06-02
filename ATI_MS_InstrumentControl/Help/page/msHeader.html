@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >Header</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >
+                The whole script starts with a header.<br>
+                The parameters of <b>IonTrapR0</b> and <b>IonTrapZ0</b> define the dimension of used ion trap.<br>
+                The <b>PriRFMaxAmp</b> is the maximum amplitude outputted from an amplifier driven by the <a href="javascript: openHtml( 'msFGen' );">FGen</a> with its maximum amplitude (3.3V).
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >Header( IonTrapR0, IonTrapZ0, PriRFMaxAmp )</p>
+            <ul class="typeFont" >
+                <li><b>IonTrapR0:</b> A scalar between 0.01 to 20.
+                </li>
+                <li><b>IonTrapZ0:</b> A scalar between 0.01 to 20.
+                </li>
+                <li><b>PriRFMaxAmp:</b> A scalar between 0 to 100,000.
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

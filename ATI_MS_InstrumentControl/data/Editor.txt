@@ -1,0 +1,2 @@
+PriPlt = sp.PltNeg( PriPlt )
+PeakPlt,PriPlt = sp.FindPeak( PeakPlt, PriPlt, kwidth=5e-3, iteration=30, ampTh=0.0005 )

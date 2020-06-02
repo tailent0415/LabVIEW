@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >Readme</p>
+            <p class="titleFont">Syntax and example</p>
+            <p class="normalFont" >
+                The ATI MS Explorer software provides signal post-processing via Python 3.7.4 syntax.<br>
+                It preloads libraries of both numpy & scipy as well.<br>
+                Therefore, a simple moving average for five sample points can be achieved by the following code, 
+            </p>
+        <div style="background-color: darkgray">
+            <code>
+                <var>kernel</var> = [0.2, 0.2, 0.2, 0.2, 0.2] <br>
+                for <var>n</var>, <var>sig</var> in enumerate(<var>PriPlt.ScanSig</var>): <br>
+                &emsp;&emsp; <var>PriPlt.ScanSig</var>[<var>n</var>].<var>ydata</var> = numpy.convolve(<var>sig.ydata</var>, <var>kernel</var>, 'valid')<br>
+            </code>
+        </div>
+            <p class="normalFont">
+                
+            </p>
+                
+            
+        </div>
+    </body>
+</html>

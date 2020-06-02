@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >IonGate</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >
+                This process operates the ion gate state and outputs the signal via channels of DO and AO that are defined by processes of <a href="javascript: openHtml( 'msUpdDO' );">UpdDO</a> and <a href="javascript: openHtml( 'msUpdAO' );">UpdAO</a>.<br>
+                It includes an auto-gain control function once the parameter of <b>EnableAGC</b> sets to TRUE.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >IonGate( TrialTime, TPH, EnableAGC )</p>
+            <ul class="typeFont" >
+                <li><b>TrialTime:</b> A scalar between 0.001 to 5. Interval as 2.5e-8.
+                    <p class="noteFont" >Time in second for opening the ion gate for ion quantitation estimation.</p>
+                </li>
+                <li><b>TPH:</b> A scalar between 0 to 5.
+                    <p class="noteFont" >
+                        The target peak height, as total ion number you expect, is used to ion auto gain control.<br><br>
+                        The gating time is calculated as<br>
+                        <img src="../image/IonGate_A.png" width="250">
+                    </p>
+                </li>
+                <li><b>EnableAGC:</b> A Boolean value to switch on/off.
+                    <p class="noteFont" >
+                        The function of ion auto gain control.<br>
+                        If the value sets False, the gating time is same as TrialTime.
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

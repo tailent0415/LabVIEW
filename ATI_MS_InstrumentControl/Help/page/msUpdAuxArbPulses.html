@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >UpdAuxArbPulses</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >
+                This process updates a look-up table which is used for auxiliary arbitrary waveform.<br>
+                e.g. UpdAuxArbPulses( [0.001,0.500,0.750], [0.005,0.502,0.758], [1,0.5,-0.25] )<br>
+                The above script writes three pulses at cycles of [0.001, 0.005], [0.500, 0.502], and [0.750, 0.758] with <br>
+                intensity of 1, 0.5, and -0.25 into the look-up table of auxiliary arbitrary wave.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >UpdAuxArbPulses( CycleIni, CycleEnd, PulseInt )</p>
+            <ul class="typeFont" >
+                <li><b>CycleIni:</b> A scalar array with 1 to 255 elements the element between 0 to 1. Interval as 6e-5.
+                    <p class="noteFont" >Expresses the initial cycles of pulses.</p>
+                </li>
+                <li><b>CycleEnd:</b> A scalar array with 1 to 255 elements the element between 0 to 1. Interval as 6e-5.
+                    <p class="noteFont" >Expresses the end cycles of pulses.</p>
+                </li>
+                <li><b>PulseInt:</b> A scalar array with 1 to 255 elements the element between -1 to 1. Interval as 7.5e-3.
+                    <p class="noteFont" >Presents the intensity of pulses.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

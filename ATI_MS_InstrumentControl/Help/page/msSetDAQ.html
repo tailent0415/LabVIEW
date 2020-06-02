@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >SetDAQ</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >This process sets the channel of data acquicision and its sampling rate.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >SetDAQ( Channel, SampRate )</p>
+            <ul class="typeFont" >
+                <li><b>Channel:</b> An integer between 0 to 3.
+                    <blockquote>
+                        0 | do not acquisition data.<br>
+                        1 | enquiry signal from AI0, the sampling rate is fixed to 200kHz.<br>
+                        2 | enquiry signal from AI1, the sampling rate is fixed to 200kHz.<br>
+                        3 | enquiry signal from pAI (Programmable AI), the user can set the sampling rate.
+                    </blockquote>
+                </li>
+                <li><b>SampRate:</b> An integer between 0 to 5.
+                    <blockquote>
+                        0 | 306.25kHz<br>
+                        1 | 612.5<br>
+                        2 | 1.25MHz<br>
+                        3 | 2.5MHz<br>
+                        4 | 5MHz<br>
+                        5 | 10MHz
+                    </blockquote>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

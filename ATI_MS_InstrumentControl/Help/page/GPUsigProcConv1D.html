@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >Conv1D</p>
+            <p class="titleFont" >Description</p>
+            <p class="normalFont" >Returns the discrete, linear convolution of two one-dimensional sequences via graphic processing unit. The NVIDIA CUDA is definitely required.</p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >Conv1D( kernel, ydata )</p>
+            <p class="typeDescFont">Parameters:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>kernel: float 1-D array</b>
+                    <br>It is a sequence of number with a given width and value. See MakeKernel for having further detail.
+                </li>
+                <li>
+                    <b>ydata: float 1-D array</b>
+                    <br>A sequence of discrete signal points.
+                </li>
+            </ul>
+            <p class="typeDescFont">Return:</p>
+            <ul class="typeFont">
+                <li>
+                    <b>Conv1D: plot class</b>
+                    <br>It returns whole plot data with one-dimensional convolution of its ydata and the kernel.
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

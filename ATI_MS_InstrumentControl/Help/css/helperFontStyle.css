@@ -1,0 +1,78 @@
+.headFont {
+    font-size: 30pt;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.titleFont {
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.funcFont{
+    font-size: 16pt;
+    color: darkblue;
+    font-weight: bold;
+    font-family: Consolas, sans-serif;
+}
+
+.typeFont{
+    font-size: 14pt;
+    color: black;
+    font-family: Times New Roman, sans-serif;
+}
+
+.typeDescFont{
+    font-size: 12pt;
+    font-weight: bold;
+    color: #f75000;
+    font-family: sans-serif;
+}
+
+
+.noteFont{
+    font-size: 14pt;
+    color: gray;
+    font-family: Times New Roman, sans-serif;
+}
+
+.normalFocusFont{
+    font-size: 16pt;
+    font-weight: bold;
+    color: #000000;
+    font-family: Times New Roman, sans-serif;
+}
+
+.normalFont{
+    font-size: 14pt;
+    color: #000000;
+    font-family: Times New Roman, sans-serif;
+}
+
+
+.contentHedaFont{
+    font-size: 22pt;
+    font-weight: bold;
+    color: #2828ff;
+    font-family: sans-serif;
+}
+
+.contentTitleFont{
+    font-size: 18pt;
+    font-weight: bold;
+    color: #f75000;
+    font-family: sans-serif;
+}
+
+.contentFont{
+    font-size: 12pt;
+    color: #000000;
+    font-family: sans-serif;
+    margin-left: 12pt;
+}
+
+.textField{
+    margin-top:0px; 
+    margin-left:15%;
+    margin-right:auto; 
+    margin-bottom:5px; 
+}

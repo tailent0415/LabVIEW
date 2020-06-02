@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >LaserTrig</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >
+                This process triggers the laser via DO trigger line(s).
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >LaserTrig( TrigFreq, PhaseDeg, Shots )</p>
+            <ul class="typeFont" >
+                <li><b>TrigFreq:</b> A scalar between 0.01 to 2,000. Interval as 1e-10.
+                    <p class="noteFont" >Maximun trigger frequency (Hz).</p>
+                </li>
+                <li><b>PhaseDeg:</b> A scalar between 0 to 359.9. Interval as 8.38e-8.
+                    <p class="noteFont" >Trigger the laser at a specific phase of main RF.</p>
+                </li>
+                <li><b>Shots:</b> An integer between 1 to 255.
+                    <p class="noteFont" >Number of laser shots.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>

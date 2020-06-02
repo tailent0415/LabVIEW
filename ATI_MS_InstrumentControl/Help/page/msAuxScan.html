@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >AuxScan</p>
+            <p class="titleFont">Description</p>
+            <p class="normalFont" >
+                This process scans the auxiliary waveform stepwisely.
+            </p>
+            <p class="titleFont" >Syntax</p>
+            <p class="funcFont" >AuxScan( AuxWfmType, AuxStart, iAuxCyc, AuxCyc, Beta, BetaScale, AuxAmp, AuxPulse1, AuxPulse2, AuxPulseAmp, Time )</p>
+            <ul class="typeFont">
+                <li>
+                    <b>AuxWfmType:</b> An integer between 0 to 3.
+                    <blockquote> 
+                        0 | Cosine based<br>
+                        1 | Square wave<br>
+                        2 | Double pulses for each cycle<br>
+                        3 | Arb wave, described by a process named <a href="javascript: openHtml( 'msUpdAuxArbPulses' );">UpdAuxArbPulses</a><br>
+                    </blockquote>
+                    <p class="noteFont">It determines the type of the auxilary waveform.</p>
+                </li>
+                <li>
+                    <b>AuxStart:</b> An integer between 0 to 127.
+                    <p class="noteFont">The auxiliary waveform starts after a number of the RF conjunction for a step.</p>
+                </li>
+                <li>
+                    <b>iAuxCyc:</b> A scalar between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont">The initial phase of auxiliary AC.</p>
+                </li>
+                <li>
+                    <b>AuxCyc:</b> A scalar array with 2 elements the element between 0 to 99999. Interval as 2.4e-10.
+                    <p class="noteFont">The number of active cycles and the total cycle of the auxiliary AC for a step.</p>
+                </li>
+                <li>
+                    <b>Beta:</b> A scalar array with 2 elements the element between 0.01 to 1.
+                    <p class="noteFont">The Beta value is used to define the auxiliary AC frequency and m/z scale of the acquired mass spectra. The array denotes the indicating the initial Beta and final Beta of a scan.</p>
+                </li>
+                <li>
+                    <b>BetaScale:</b> A scalar between 0 to 10.
+                    <p class="noteFont" >It defines the actual ratio (R) between auxiliary frequency and main RF frequency by R = Beta * BetaScale / 2.</p>
+                </li>
+                <li>
+                    <b>AuxAmp:</b> A scalar array with 2 elements the element between 0 to 1.
+                    <p class="noteFont" >The array denotes the indicates the intial auxiliary AC amplitude and final auxiliary AC amplitude for waveform types of cosine wave and square wave.</p>
+                </li>
+                <li>
+                    <b>AuxPulse1:</b> A scalar array with 2 elements the element between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont" >The array denotes the beginning and ending auxiliary AC cycles of the first pulse.</p>
+                </li>
+                <li>
+                    <b>AuxPulse2:</b> A scalar array with 2 elements the element between 0 to 1. Interval as 2.4e-10.
+                    <p class="noteFont" >The array denotes the beginning and ending auxiliary AC cycles of the second pulse.</p>
+                </li>
+                <li>
+                    <b>AuxPulseAmp:</b> A scalar array with 2 elements the element between -1 to 1.
+                    <p class="noteFont" >The array denotes the amplitudes of AuxPulses.</p>
+                </li>
+                <li>
+                    <b>Time:</b> A scalar between 0 to 60.
+                    <p class="noteFont" >Scan time in unit of second.</p>
+                </li>
+            </ul>
+        </div>
+    </body>
+    <script>
+        function openHtml( htmlName ){
+            var page_name = htmlName + ".html";
+            window.open( page_name, "frame_display" );
+        };
+    </script>
+</html>

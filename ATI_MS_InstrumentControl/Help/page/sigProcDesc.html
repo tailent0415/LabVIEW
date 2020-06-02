@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="zh-tw">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../css/helperFontStyle.css">
+        <link rel="stylesheet" type="text/css" href="../css/heplerLayoutStyle.css">
+    </head>
+    <body class="pageBG">
+        <div class="text_field">
+            <p class="headFont" >Readme</p>
+            <p class="titleFont">Data access</p>
+            <p class="normalFont" >
+                User can access the acquired scan signals via a class named <b>PriPlt.ScanSig</b>.</p>
+            <table style="border:2px #cccccc solid;" cellpadding="4" border='1'>
+                <tr>
+                    <td><b>Variable</b></td>
+                    <td><b>Type</b></td>
+                    <td><b>Description</b></td>
+                </tr>
+                <tr>
+                    <td>PriPlt.ScanSig[n].dt</td>
+                    <td>Float64 (DBL)</td>
+                    <td>The sampling time interval of data acquisition during the nth scan process.</td>
+                </tr>
+                <tr>
+                    <td>PriPlt.ScanSig[n].ydata</td>
+                    <td>List of Float32 (SGL)</td>
+                    <td>The array listing acquired signal during the nth scan process.</td>
+                </tr>
+                <tr>
+                    <td>PriPlt.ScanSig[n].xdata</td>
+                    <td>List of Float64 (DBL)</td>
+                    <td>The array listing m/z for ydata.</td>
+                </tr>
+            </table>
+            <p class="normalFont" >
+                The ScanSig shall be displayed by a tGraph (graph display in time-domain) or an mzGraph (graph display in m/z-domain, mass spectra)<br>
+                which can be selected by a checkbox on the main screen.<br>
+            </p>
+            <p class="normalFont">The label of graph displays can be modified via changing the values of below variables</p>
+            <table style="border:2px #cccccc solid;" cellpadding="4" border='1'>
+                <tr>
+                    <td><b>Variable name</b></td>
+                    <td><b>Type</b></td>
+                    <td><b>Description</b></td>
+                </tr>
+                <tr>
+                    <td>PriPlt.tGraph.xlabel</td>
+                    <td>String</td>
+                    <td>The label at x-axial of tGraph</td>
+                </tr>
+                <tr>
+                    <td>PriPlt.tGraph.ylabel</td>
+                    <td>String</td>
+                    <td>The label at y-axial of tGraph</td>
+                </tr>
+                <tr>
+                    <td>PriPlt.mzGraph.xlabel</td>
+                    <td>String</td>
+                    <td>The label at x-axial of mzGraph</td>
+                </tr>
+                <tr>
+                    <td>PriPlt.mzGraph.ylabel</td>
+                    <td>String</td>
+                    <td>The label at y-axial of mzGraph</td>
+                </tr>
+            </table>
+            <p class="normalFont">
+                User can access the signal acquired during ion injection processes via a class named <b>SecPlt.IonSig</b>.
+            </p>
+            <table style="border:2px #cccccc solid;" cellpadding="4" border='1'>
+                <tr>
+                    <td><b>Variable name</b></td>
+                    <td><b>Type</b></td>
+                    <td><b>Description</b></td>
+                </tr>
+                <tr>
+                    <td>SecPlt.IonSig[n].dt</td>
+                    <td>Float64 (DBL)</td>
+                    <td>The sampling time interval of data acquisition during the nth ion injection process.</td>
+                </tr>
+                <tr>
+                    <td>SecPlt.IonSig[n].ydata</td>
+                    <td>List of Float32 (SGL)</td>
+                    <td>The array listing acquired signal during the nth ion injection process.</td>
+                </tr>
+            </table>
+            <p class="normalFont">Its graph label can be modified via changing</p>
+            <table style="border:2px #cccccc solid;" cellpadding="4" border='1'>
+                <tr>
+                    <td><b>Variable name</b></td>
+                    <td><b>Type</b></td>
+                    <td><b>Description</b></td>
+                </tr>
+                <tr>
+                    <td>SecPlt.ionGraph.xlabel</td>
+                    <td>String</td>
+                    <td>The label at x-axial of ionGraph.</td>
+                </tr>
+                <tr>
+                    <td>SecPlt.ionGraph.ylabel</td>
+                    <td>String</td>
+                    <td>The label at y-axial of ionGraph.</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
